@@ -11,7 +11,7 @@ A **simple C# Windows Forms application** that allows you to **select an image a
 ## 📂 Features
 
 - **Browse and select an image** using a File Dialog.
-- Validates that the selected file is a **supported image format** (`.jpg`, `.jpeg`, `.png`, `.bmp`, `.gif`).
+- Validates that the selected file is a **supported image format** (`.jpg`, `.jpeg`, `.png`).
 - Displays a **preview of the current wallpaper** and the **new wallpaper**.
 - Provides a **confirmation dialog** before changing the wallpaper.
 - Changes the wallpaper only if the user confirms.
