@@ -22,9 +22,11 @@ Check out the repo here: [APIs Samples](https://github.com/SilentDev-Na/API-Samp
 
 APIs-Samples/
 │
-├─ Project1/
+├─ ChangeWalpaper/
 │ └─ README.md
 ├─ Project2/
+│ └─ README.md
+├─ Project3/
 │ └─ README.md
 
 
@@ -60,6 +62,6 @@ This repository is work in progress.
 
 No sensitive data (API keys, passwords) will be included.
 
-Contributions and suggestions are welcome once projects are added.
+- Contributions and suggestions are welcome for existing projects.
 
 Stay tuned for updates as new API projects are added! 💻✨
